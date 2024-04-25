@@ -80,3 +80,6 @@ Wenn Sie die VS6-Version von RC verwenden möchten, entfernen Sie das "moderne" 
 Ja, ändern Sie einfach den Pfad in der Datei `iexplore_fake.reg` zurück zu `"C:\Program Files\Internet Explorer\iexplore.exe"`.
 
 
+Thanks to/Danke an:
+Ben Gripka and dbenham Stackoverflow https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file UAC Dialog inside batch code
+
