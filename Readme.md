@@ -9,7 +9,13 @@ This is due to Windows updates which have changed the executable of Internet Exp
 Also, swapping old binaries doesn't work well and is likely to be overwritten by updates.
 For this reason, this small application was created to start the genuine Internet Explorer again.
 
-## How to set up the application
+## How to set up the application 
+1. go to releases download install.zip
+2. extract the files into a directory
+3. execute the install.bat
+4. done :)
+
+## How to set up the application (manually)
 
 1. **Compile the EXE.**
 2. **Place the EXE in the desired path**, for example, `C:\ProgramData\Scripts\iexplore.exe`.
@@ -26,11 +32,6 @@ If you want to use the VS6 version of RC, remove the "modern" icon and rename th
 
 Yes, simply change the path back to `"C:\Program Files\Internet Explorer\iexplore.exe"` in `iexplore_fake.reg`.
 
-### Will there be an installer?
-
-I'm considering it! :)
-
-
 # Deutsch
 
 # Wiederherstellung des IExplore.exe Befehls, um den echten Internet Explorer zu öffnen
@@ -42,7 +43,13 @@ Dies liegt an Windows-Updates, die die Ausführbarkeit von Internet Explorer und
 Auch das Austauschen alter Binärdateien funktioniert nicht gut und wird voraussichtlich durch Updates überschrieben.
 Aus diesem Grund wurde dieses kleine Programm erstellt, um den echten Internet Explorer wieder zu starten.
 
-## Wie richte ich das Programm ein?
+## Wie richte ich das Programm ein? 
+1. Gehe zu releases downloade install.zip
+2. extrahiere die dateien in ein verzeichnis
+3. Führe die instlal.bat aus
+4. Fertig :)
+
+## Wie richte ich das Programm ein? (manuell)
 
 1. **Kompilieren Sie die EXE.**
 2. **Platzieren Sie die EXE im gewünschten Pfad**, z. B. `C:\ProgramData\Scripts\iexplore.exe`.
@@ -59,7 +66,4 @@ Wenn Sie die VS6-Version von RC verwenden möchten, entfernen Sie das "moderne" 
 
 Ja, ändern Sie einfach den Pfad in der Datei `iexplore_fake.reg` zurück zu `"C:\Program Files\Internet Explorer\iexplore.exe"`.
 
-### Wird es einen Installer geben?
-
-Ich denke darüber nach! :)
 

@@ -28,7 +28,7 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------    
-set folder="C:\programdata\script"
+set folder="C:\programdata\scripts"
 if not exist %folder% (
     mkdir %folder%
     echo Folder %folder% created successfully.
