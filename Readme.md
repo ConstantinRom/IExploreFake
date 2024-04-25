@@ -2,9 +2,10 @@
 
 # Restore the IExplore.exe command to open the genuine Internet Explorer
 
+#Warning
 > [!CAUTION]
 >I accept no liability for any damage. Internet Explorer is an outdated browser and should only be used if absolutely necessary. 
-> Please note that the use of this program may require changes to the system registry keys. 
+> Please note that the use of this program may require changes to system registry keys. 
 
 ## Why is this needed?
 
@@ -41,7 +42,7 @@ Yes, simply change the path back to `"C:\Program Files\Internet Explorer\iexplor
  
 > [!CAUTION]
 > Ich übernehme keine Haftung für Schäden. Der Internet Explorer ist ein veralteter Browser und sollte nur verwendet werden, wenn dies unbedingt erforderlich ist. 
-> Bitte beachten Sie, dass die Nutzung dieses Programms möglicherweise Änderungen an den Systemregistrierungsschlüsseln erfordert. 
+> Bitte beachten Sie, dass die Nutzung dieses Programms möglicherweise Änderungen an den Systemregistrykeys erfordert. 
 
 
 # Wiederherstellung des IExplore.exe Befehls, um den echten Internet Explorer zu öffnen
