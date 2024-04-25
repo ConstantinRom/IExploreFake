@@ -2,7 +2,6 @@
 
 # Restore the IExplore.exe command to open the genuine Internet Explorer
 
-#Warning
 > [!CAUTION]
 >I accept no liability for any damage. Internet Explorer is an outdated browser and should only be used if absolutely necessary. 
 > Please note that the use of this program may require changes to the system registry keys. 
