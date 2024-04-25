@@ -20,6 +20,7 @@ For this reason, this small application was created to start the genuine Interne
 1. **Compile the EXE.**
 2. **Place the EXE in the desired path**, for example, `C:\ProgramData\Scripts\iexplore.exe`.
 3. **Change the path in `iexplore_fake.reg` to the correct one and then apply it to the registry.**
+4. **Change all "C:\Users\USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Internet Explorer.lnk" files to right exe path**
 
 ## Tips
 
@@ -54,6 +55,8 @@ Aus diesem Grund wurde dieses kleine Programm erstellt, um den echten Internet E
 1. **Kompilieren Sie die EXE.**
 2. **Platzieren Sie die EXE im gewünschten Pfad**, z. B. `C:\ProgramData\Scripts\iexplore.exe`.
 3. **Ändern Sie den Pfad in `iexplore_fake.reg` auf den richtigen und wenden Sie ihn dann auf die Registry an.**
+4. **Ändere alle "C:\Users\USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Internet Explorer.lnk" zum richtigen exe Pfad**
+
 
 ## Tipps
 
